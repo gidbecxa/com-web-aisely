@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="190" height="40" viewBox="0 0 190 40">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="brand_twitter_Background_Mask_" data-name="brand / twitter (Background/Mask)" width="40" height="40"/>
+    </clipPath>
+  </defs>
+  <g id="Group_49" data-name="Group 49" transform="translate(-69 -3913)">
+    <g id="brand_twitter" data-name="brand / twitter" transform="translate(219 3913)">
+      <rect id="brand_twitter_Background_Mask_2" data-name="brand / twitter (Background/Mask)" width="40" height="40" fill="none"/>
+      <g id="brand_twitter-2" data-name="brand / twitter" clip-path="url(#clip-path)">
+        <path id="brand_twitter-3" data-name="brand / twitter" d="M33.9.509A14.318,14.318,0,0,1,29.36,2.244,7.167,7.167,0,0,0,17.167,8.769,20.307,20.307,0,0,1,2.427,1.3a7.167,7.167,0,0,0,2.213,9.55,7.127,7.127,0,0,1-3.238-.9v.09A7.157,7.157,0,0,0,7.14,17.052a7.167,7.167,0,0,1-3.23.123,7.167,7.167,0,0,0,6.682,4.967A14.35,14.35,0,0,1,1.708,25.2,14.524,14.524,0,0,1,0,25.105a20.245,20.245,0,0,0,10.965,3.213A20.212,20.212,0,0,0,31.315,7.967q0-.465-.022-.925a14.532,14.532,0,0,0,3.57-3.7,14.3,14.3,0,0,1-4.107,1.127A7.167,7.167,0,0,0,33.9.509Z" transform="translate(2.568 6.681)"/>
+      </g>
+    </g>
+    <g id="brand_LinkedIn" data-name="brand / LinkedIn" transform="translate(169 3913)">
+      <rect id="brand_LinkedIn_Background_Mask_2" data-name="brand / LinkedIn (Background/Mask)" width="40" height="40" fill="none"/>
+      <g id="brand_LinkedIn-2" data-name="brand / LinkedIn" clip-path="url(#clip-path)">
+        <path id="brand_LinkedIn-3" data-name="brand / LinkedIn" d="M16.666,30h0L10,30V10h6.666v3.333a7.672,7.672,0,0,1,5.875-2.938A7.511,7.511,0,0,1,30,17.915V30l-6.666,0V18.749a3.794,3.794,0,0,0-3.736-3.24h-.009a3.025,3.025,0,0,0-2.922,3.24V30Zm-10,0H0V10H6.666V30ZM3.333,6.666a3.329,3.329,0,1,1,2.358-.975A3.337,3.337,0,0,1,3.333,6.666Z" transform="translate(4.5 4.5)"/>
+      </g>
+    </g>
+    <g id="brand_instagram" data-name="brand / instagram" transform="translate(68.959 3913.388)">
+      <rect id="brand_instagram_Background_Mask_2" data-name="brand / instagram (Background/Mask)" width="40" height="40" transform="translate(0.041 -0.388)" fill="none"/>
+      <g id="brand_instagram-2" data-name="brand / instagram" transform="translate(0.041 -0.388)" clip-path="url(#clip-path)">
+        <path id="brand_instagram-3" data-name="brand / instagram" d="M14.882,29.824c-4.075,0-4.553-.021-6.134-.091a10.867,10.867,0,0,1-3.614-.744,7.655,7.655,0,0,1-4.349-4.35,10.862,10.862,0,0,1-.694-3.616C0,19.438,0,18.919,0,14.882c0-4.095.021-4.568.092-6.134A10.874,10.874,0,0,1,.786,5.136,7.632,7.632,0,0,1,5.139.784a10.8,10.8,0,0,1,3.612-.7C10.33,0,10.848,0,14.882,0c4.1,0,4.568.021,6.128.089a10.877,10.877,0,0,1,3.628.7,7.643,7.643,0,0,1,4.353,4.352,10.839,10.839,0,0,1,.7,3.666c.092,1.585.092,2.1.092,6.138,0,4.063-.023,4.584-.092,6.13a10.886,10.886,0,0,1-.695,3.619,7.657,7.657,0,0,1-4.355,4.352,10.9,10.9,0,0,1-3.615.694C19.445,29.824,18.926,29.824,14.882,29.824ZM14.826,2.618c-4.037,0-4.46.019-6.034.09h-.01a8.188,8.188,0,0,0-2.759.515A4.945,4.945,0,0,0,3.18,6.054a8.276,8.276,0,0,0-.515,2.789c-.088,1.6-.088,2.023-.088,6.039,0,3.986.015,4.46.088,6.042a8.359,8.359,0,0,0,.515,2.762,4.952,4.952,0,0,0,2.843,2.829,8.137,8.137,0,0,0,2.759.513c1.6.092,2.022.092,6.044.092,4.061,0,4.481-.02,6.042-.092a8.158,8.158,0,0,0,2.762-.513,4.979,4.979,0,0,0,2.828-2.826,8.332,8.332,0,0,0,.513-2.792h.019c.07-1.581.07-2,.07-6.042,0-4.07-.019-4.488-.089-6.044a8.332,8.332,0,0,0-.513-2.758A4.969,4.969,0,0,0,23.63,3.224a8.123,8.123,0,0,0-2.762-.515C19.27,2.618,18.849,2.618,14.826,2.618Zm.057,19.9h-.007a7.643,7.643,0,1,1,.007,0Zm0-12.61a4.961,4.961,0,1,0,4.96,4.96A4.966,4.966,0,0,0,14.882,9.91Zm7.942-1.179h-.006a1.79,1.79,0,1,1,.006,0Z" transform="translate(4.948 5.283)"/>
+      </g>
+    </g>
+    <g id="brand_facebook" data-name="brand / facebook" transform="translate(119 3913)">
+      <rect id="brand_facebook_Background_Mask_2" data-name="brand / facebook (Background/Mask)" width="40" height="40" fill="none"/>
+      <g id="brand_facebook-2" data-name="brand / facebook" clip-path="url(#clip-path)">
+        <path id="brand_facebook-3" data-name="brand / facebook" d="M14.062,33.129V21.481H9.833V16.664h4.233V13a5.88,5.88,0,0,1,6.288-6.5,25.73,25.73,0,0,1,3.733.333v4.1H21.982a2.41,2.41,0,0,0-2.713,2.6v3.13h4.618l-.738,4.818h-3.88V33.129a16.665,16.665,0,1,0-5.207,0Z" transform="translate(3.337 3.339)"/>
+      </g>
+    </g>
+  </g>
+</svg>

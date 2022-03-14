@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-ydmdgreenalt scroll-smooth font-sans text-ydblack text-opacity-90 antialiased overflow-x-hidden;
+}
